@@ -5,6 +5,6 @@
 
 - 👯 I’m looking to collaborate on **my upcoming projects.**
 
-- 📫 How to reach me **pulkitgg04@gmail.com**
+- 📫 How to reach me **pulkitgargbnl@gmail.com**
 
 [![An image of @pulkitgarg04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pulkitgarg04)](https://holopin.io/@pulkitgarg04)
