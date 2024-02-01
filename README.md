@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pulkit Garg</h1>
 <h3 align="center">CSE Student @Chitkara University & A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **C, Python & Web Developement**
+- 🌱 I’m currently learning **C/C++, Full Stack Web Developement**
 
 - 👯 I’m looking to collaborate on **my upcoming projects.**
 
