@@ -11,9 +11,6 @@
 
 [![An image of @pulkitgarg04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pulkitgarg04)](https://holopin.io/@pulkitgarg04)
 
-<div align="center">
-      <img src="https://streak-stats.demolab.com?user=pulkitgarg04&theme=dark&hide_border=true" />
-</div>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,git,vscode,nodejs" />
 </p>
