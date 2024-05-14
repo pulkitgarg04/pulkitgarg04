@@ -14,5 +14,3 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,git,vscode,mongodb,express,react,nodejs,wordpress" />
 </p>
-
-[![pulkitgarg04's GitHub | Stats](https://stats.quine.sh/pulkitgarg04/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=pulkitgarg04)
