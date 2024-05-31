@@ -14,3 +14,5 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,git,vscode,mongodb,express,react,nodejs,wordpress" />
 </p>
+
+[![Pulkit Garg's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pulkitgarg04&bg_color=000000&color=00ecff&line=00eeff&point=0091ff&area=true&hide_border=true)](https://github.com/pulkitgarg04)
