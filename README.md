@@ -1,5 +1,4 @@
 ![Pulkit Garg README](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center">Hi 👋, I'm Pulkit Garg</h1>
 <h3 align="center">Computer Science and Engineering Student & Aspiring Developer!</h3>
 
 ![](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
