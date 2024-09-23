@@ -1,4 +1,3 @@
-![Pulkit Garg README](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h3 align="center">Computer Science and Engineering Student & Aspiring Developer!</h3>
 
 ![](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
@@ -18,3 +17,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pulkitgarg04&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pulkitgarg04&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pulkitgarg04&theme=2077)
+
+[![](https://visitcount.itsvg.in/api?id=pulkitgarg04&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
