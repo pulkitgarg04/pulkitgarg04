@@ -2,9 +2,8 @@
 
 ![](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 
-- 🌱 I’m currently learning **Data Structures and Algorithms in C/C++, and Full Stack Web Development using JavaScript and TypeScript.**
+- 🌱 I’m currently learning **Data Structures and Algorithms in Java, and Full Stack Web Development.**
 - 👯 I’m looking to collaborate on **my upcoming projects.**
-- 👨‍💻 All of my projects are available at [here](pulkitgarg.vercel.app)
 - 📫 How to reach me **business.pulkitgarg@gmail.com**
 
 
